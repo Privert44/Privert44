@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Privert44/Privert44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-https://blackboxai.partnerlinks.io/xkqfas5iawzr
+ Privert44/Privert44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
